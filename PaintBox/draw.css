@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+body{
+  background-image: image('art.jpg');
+}
+#svg {
+  border: 1px solid;
+  margin-top:10px;
+  box-shadow: 5px 10px grey;
+}
+.navi{
+  position: fixed;
+  border: 2px solid grey;
+  box-shadow: 2px 1px grey;
+  background-color:  #8a8a5c;
+  color: white;
+  font-size: 20px;
+  /* opacity: 0.34; */
+}
